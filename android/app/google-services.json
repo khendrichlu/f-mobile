@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247947211869",
+    "project_id": "f-mobile-7b045",
+    "storage_bucket": "f-mobile-7b045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247947211869:android:cda0107db84ca1497789b4",
+        "android_client_info": {
+          "package_name": "com.example.f_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247947211869-9the04fik9ssfnq8re2538d4hi1eobd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASgLcbYipFkV1eDgT7_lUEoj-bys7HahQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247947211869-9the04fik9ssfnq8re2538d4hi1eobd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
